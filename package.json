@@ -1,0 +1,19 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "My Web Workflow with SASS, Gulp, NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/labunchemjong/Web-Development-with-SASS-Gulp-NPM.git"
+  },
+  "author": "Labun Chemjong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/labunchemjong/Web-Development-with-SASS-Gulp-NPM/issues"
+  },
+  "homepage": "https://github.com/labunchemjong/Web-Development-with-SASS-Gulp-NPM#readme"
+}

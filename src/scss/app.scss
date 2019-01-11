@@ -5,3 +5,10 @@ body {
 	background-color: $red;
 	font-size: $body-base-font;
 }
+
+h1 {
+	transition: all 0.25s ease;
+	color: #ff0;
+	text-align: left;
+	font-size: 20px;
+}
